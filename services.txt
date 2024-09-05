@@ -1,1 +1,5 @@
 my service list
+game app development
+spy app development
+effective debugging
+better data management 
